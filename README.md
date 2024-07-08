@@ -11,5 +11,6 @@ Program dolazi sa integrisanom listom nekih osnovnih jela ali i sa mogućnošću
 
 Ovo je osnovna verzija za konzolu s tim da bi uskoro trebala biti napravljena jednostavna Windows aplikacija radi lakše upotrebe.
 
-Radio: Tarik Redžić \n
+Radio: Tarik Redžić 
+
 Juli 2024.
